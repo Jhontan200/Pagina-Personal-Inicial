@@ -8,6 +8,7 @@ p{
     font-size: 25px;
 }
 .imagen{
-    width: 500px !important;
-    height: 10px !important;
+    width: 500px;
+    height: 100px;
+    align-items: center;
 }
